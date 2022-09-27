@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanLisas
 - 👀 I’m interested in full stack develop
-- 🌱 I’m currently learning smart contracts
+- 🌱 I’m currently learning all abount web3
 - 💞️ I'm looking to collaborate on interesting projects :)
 - 📫 How to reach me ivanelisas@gmail.com
 
