@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IvanLisas
-- 👀 I’m interested in full stack develop
-- 🌱 I’m currently learning all abount web3
+- 🌱 I’m currently working in belo.app
 - 💞️ I'm looking to collaborate on interesting projects :)
 - 📫 How to reach me ivanelisas@gmail.com
 
