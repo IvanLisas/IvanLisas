@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IvanLisas
 - 🌱 I’m currently working in belo.app
-- 💞️ I'm looking to collaborate on interesting projects :)
 - 📫 How to reach me ivanelisas@gmail.com
 
 <!---
